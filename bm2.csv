@@ -1,0 +1,23 @@
+﻿user;ram;cpumodel;cpuhastighed;cores;crossprodI;lmI;sortI
+cphwiho;8589934592;Intel(R) Core(TM) i5-8210Y CPU;1.60GHz;4;11,552;0,943;0,775
+Andreas;8589934592;Apple M1;3.2;8;7,8;0,603;0,62
+Diana;17179869184;Intel(R) Core(TM) i5-1038NG7 CPU;2.00GHz;8;13.08;14.27;895.000.000.000.003
+Sara Hassouni;8.589.934.592,00;"Intel(R)";2,00;4,00;13,95;1,20;0,85
+Louise;8,9GB;Intel(R) Core(TM) i5-1030NG7 CPU ;1.10 GHz;8;10,932;0,775;1,04
+Elias;8,9GB;Intel(R) Core(TM) i7-7500U();2.70GHz;4;10,36;0,9;0,72
+Sara;4,29;Intel(R) Core(TM) i3-7100U ;2,4;4;15,61;1,18;1,08
+Christian R;17,2 GB;Intel(R) Core(TM) i5-3210M;2.50GHz;4;8,691;0,81;0,75
+Christian Haake;8589934592;Intel(R) Core(TM) i5-8300H;2.3;8;18.15;01.37;01.19
+muzza;16 GB;AMD Ryzen 9 5900hx;3.3 GHz;8;6,12;0,5;0,66
+Mohamad;4606352425;"GenuineIntel"" ""Intel(R) Pentium(R) Silver N5030 CPU";1.10GHz;4;15,16;1,27;0,86
+RV;8,59;i5-8265U;1.6;8;14.2;1,3;1,29
+Calvin;33,7 GB;Intel(R) Core(TM) i7-6820HQ CPU;2.70GHz;8;10,11;0,74;0,83
+Nico;8589934592;Intel(R) Core(TM) i5-4200H CPU;2.80GHz;4;8,24;0,639;0,659
+Claes;16;AMD Ryzen 5 3500U Vega Mobile Gfx 2.10 GHz;2.1GHz;4;7,62;0,65;0,84
+Rasmus;8;Intel(R) Core(TM) i5-7360U CPU;2.3 GHz;4;0,76;;
+Nadia;8589934592;11th Gen Intel(R) Core(TM) i5-1135G7;2.40GHz;8;7,91;0,64;0,55
+Malthe;16 GB;Intel(R) Core(TM) i7-9750H CPU;2.60GHz;12;9,637;0,9639;0,6659
+Daniel;8589934592;Intel(R) Core(TM) i7-5650U CPU;2,2GHz;4;;;
+Benjamin;8.59 GB;Intel(R) Core(TM) i5-7300HQ CPU;2.50GHz;4;0,68;10,39;0,84
+Elon Musk ;100;Intel Tesla;20GHz;666;;;
+Anton;8 GB;Apple M1;3,2GHz;8;7,159;0,598;0,623
